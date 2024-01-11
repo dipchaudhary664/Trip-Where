@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* /
+.container {
+  align-items: center;
+  justify-content: center;
+}
+
+.app-header {
+  font-family: "Noto Sans Thai";
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  color: #1e90ff;
+}
+.searchBox {
+  border: none;
+  outline: none;
+  color: #bbb;
+  border-bottom: 1px solid #bbb;
+  width: 50%;
+  font-family: "Noto Sans Thai";
+  font-size: 16px;
+  text-align: center;
+  margin-left: 25%;
+}
+.trip-list{
+  display: grid;
+} */
